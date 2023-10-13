@@ -1,2 +1,2 @@
-# We have migrated to codeberg:
-- https://codeberg.org/FUMLUG
+# [We have migrated to codeberg](https://codeberg.org/FUMLUG)
+ 
